@@ -11,7 +11,7 @@ Front-end engineering
 Scalable UI · Design Systems · Product-driven architecture
 
 **Stack**  
-`React · TypeScript · Next.js · Tailwind · Storybook`
+`CSS · Javascript · Typescript`
 
 **Tools**  
 `Figma · REST APIs · Git · GitHub`
